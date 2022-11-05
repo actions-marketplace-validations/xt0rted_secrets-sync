@@ -35,7 +35,7 @@
     "@octokit/plugin-retry": "^4.0.3",
     "@octokit/plugin-throttling": "^4.3.1",
     "js-yaml": "^4.1.0",
-    "tweetsodium": "^0.0.5"
+    "tweetsodium": "^0.0.6"
   },
   "devDependencies": {
     "@types/eslint": "^8.4.9",
